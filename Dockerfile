@@ -1,4 +1,4 @@
-FROM python:3.5-alpine
+FROM python:3.9-alpine
 
 MAINTAINER Josh Bloom "profjsb@gmail.com"
 
